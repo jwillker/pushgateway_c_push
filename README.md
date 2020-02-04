@@ -5,3 +5,5 @@
 ## How to run
 
 `docker run -it c_client:latest bash`
+
+`./push`
